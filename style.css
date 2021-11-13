@@ -1,0 +1,16 @@
+body
+{
+background-size: cover;
+}
+Canvas{
+    background-color: black;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(102, 102, 102);
+    width: 450px;
+    height: 450px;
+}
+#song 
+{
+float: left;
+}
